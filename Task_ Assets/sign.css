@@ -4,7 +4,7 @@
   font-family: 'Poppins,sans-serif';
 }
 .sign-bg{
-  background-color: aqua;
+  background-color: rgb(231, 111, 225);
   width: 100Wv;
   background-attachment: fixed;
 }
@@ -23,7 +23,7 @@ h1{
   flex-direction: column;
 }
 .input-group label{
-  color: rgb(247, 138, 138);
+  color: rgb(7, 7, 7);
 }
 .input-group input{
   border-radius: 5px;
@@ -35,7 +35,7 @@ h1{
   outline: 0;
 }
 .input-group .error{
-  color:orange;
+  color:rgb(255, 0, 0);
   font-size: 16px;
   margin-top:5px;
 }

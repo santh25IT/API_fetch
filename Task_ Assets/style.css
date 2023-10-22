@@ -5,7 +5,7 @@
 }
 
 main {
-  padding: 20px;
+
   background-color: aqua;
   
 }
@@ -34,7 +34,7 @@ main {
 
 }
 .header a{
-  color:blue;
+  color:rgb(144, 248, 112);
 }
 .body-bg{
   width: 100%;
