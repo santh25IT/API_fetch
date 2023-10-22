@@ -1,0 +1,65 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Lora', serif;
+}
+
+main {
+  padding: 20px;
+  background-color: aqua;
+  
+}
+
+.comment {
+  background-color: #f5f5f5;
+  border: 2px solid #1b1b1b;
+  width: 700px;
+  border-radius: 20px;
+  padding: 20px;
+  margin-bottom: 20px;
+  margin-left: 200px;
+}
+
+.comment h3 {
+  color: #7e54e2;
+}
+
+.comment p {
+  color: #666;
+}
+/* login page */
+.footer-body {
+  width: 100%;
+  background-color: aqua;
+
+}
+.header a{
+  color:blue;
+}
+.body-bg{
+  width: 100%;
+  margin-top: 80px;
+  margin-left: 30%;
+  background-color: aqua;
+}
+.container .loginFrom{
+  background-color: white ;
+  width: 350px;
+  height: 350px;
+  border-radius: 20px;
+}
+section h4{
+  color: #7e54e2;
+  margin-top: 20px  ;
+}
+/* sign page */
+#sign-bg{
+  width: 100%;
+  background-color: aqua; 
+}
+#sign-box{
+background-color: white;
+border-radius: 10px;
+margin-top: 20px;
+
+}

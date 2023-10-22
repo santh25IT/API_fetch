@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Lora', serif;
+}  
+#wrapper{
+  border:2px solid white;
+  width: 300px;
+  height: 200px;
+   margin-top: 100px;
+   text-align: center;
+   border-radius: 20px;
+   margin-left: 40%;
+   color: white;
+  }
+  div
+  h2  {
+    color: #f1c636;
+    margin-top: 2px;
+   }
+  div button{
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    background-color: rgb(224, 233, 233);
+    border-radius: 50px;
+   }
+   input{
+    height: 40px;
+    margin-right: 10px;
+   }
